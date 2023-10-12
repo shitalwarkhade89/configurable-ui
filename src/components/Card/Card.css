@@ -1,0 +1,35 @@
+.shop-name{
+    font-size: 45px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    color: rgb(226, 20, 20);
+    
+    }
+    .shop-description{
+        font-size: 25px;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:darkblue;
+    margin: 5px;
+    
+    }
+    .img{
+        height: 250px;
+  display: block;
+  margin: 0px auto;
+  border-radius: 5px;
+    }
+    
+    .card-cont{
+        width:300px;
+       
+    }
+    .card-title{
+        text-align: center;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        font-weight: bold;
+    }
+    .card-text{
+        text-align: center;
+        font-size: 20px;
+        
+    }

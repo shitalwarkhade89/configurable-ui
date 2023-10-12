@@ -1,0 +1,40 @@
+{
+    "title" : "Siya's Sweet Shop",
+    "description": "🎂🍨Cakes are special. Every celebration ends with something sweet, a cake, and people remember. It's all about the memories.",
+    "services":[
+        {
+           "img": "https://rajasthanibrijwasimisthan.com/wp-content/uploads/2023/05/Desi-Ghee-Motichoor-ladoo.jpg",
+            "title" : "Motichur Laddu",
+            "description": "Motichur moments are the sweetest moments."
+        },
+        {
+            "img":"https://assets.winni.in/product/primary/2023/4/84499.jpeg?dpr=1&w=1000",
+            "title" : "Cake",
+            "description": "A party without cake is just a meeting."
+        },
+        {
+            "img":"https://static.toiimg.com/photo/52743612.cms",
+            "title" : "Rasgulla",
+            "description": "Turning ordinary days into extraordinary with a dash of rasgulla sweetness."
+        },
+        {
+            "img":"https://static.toiimg.com/thumb/68358712.cms?imgsize=403497&width=800&height=800",
+            "title" : "Rasmali",
+            "description": "A spoonful of rasmalai makes the world a sweeter place."
+        },
+        {
+            "img":"https://noveltysweets.com/cdn/shop/products/WhatsAppImage2022-06-21at5.05.07PM.jpg?v=1655811349",
+            "title" : "Kaju Katli",
+            "description": "Sweet moments are made of cashews and Kaju Katli."
+        },
+        {
+            "img":"https://www.funfoodfrolic.com/wp-content/uploads/2020/07/Gulab-Jamun-Thumbnail.jpg",
+            "title" : "Gulab Jamun",
+            "description": "Life is short; eat dessert first, especially if it's Gulab Jamun."
+        }
+       
+        
+    ]
+
+}
+
